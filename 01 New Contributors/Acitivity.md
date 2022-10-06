@@ -7,9 +7,8 @@
 1. `Fork` the Repo
 2. `Star` the Repo
 3. `Clone` the Repo
-4. Make Valid Contributions
-5. Add your name and details to `CONTRIBUTERS.md`
-6. Create a `PR`
+4. Add your name and details to `CONTRIBUTERS.md`
+5. Create a `PR`
 
 
 ## Steps To Contribute [Git Usage]
