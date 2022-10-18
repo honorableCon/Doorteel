@@ -12,8 +12,8 @@
 
 If you have any doubts regarding "How to create your first PR?", then checkout ressources.
 
-
 **Clean code is good code**
 
+- [seegah](https://github.com/seegah/)
 
 **Happy Coding! 😉**
