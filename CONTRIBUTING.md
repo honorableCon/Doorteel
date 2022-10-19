@@ -15,6 +15,7 @@ If you have any doubts regarding "How to create your first PR?", then checkout r
 **Clean code is good code**
 
 - [seegah](https://github.com/seegah/)
+- [Médoune Siby Georges Baldé](https://github.com/medounesgb/)
 - [Daouda](https://github.com/daoodaba975/)
 
 **Happy Coding! 😉**
