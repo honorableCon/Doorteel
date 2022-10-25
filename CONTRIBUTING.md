@@ -17,6 +17,8 @@ If you have any doubts regarding "How to create your first PR?", then checkout r
 - [seegah](https://github.com/seegah/)
 - [Médoune Siby Georges Baldé](https://github.com/medounesgb/)
 - [Daouda](https://github.com/daoodaba975/)
-- [Meuz Ndoye](https://github.com/Dammel-Meuz/)   
+- [Meuz Ndoye](https://github.com/Dammel-Meuz/)
+- [Mouhamed Diop](https://github.com/Devdiop221/)
+
 
 **Happy Coding! 😉**
